@@ -5,12 +5,12 @@
 - _J edispose aussi d'un compte linkedin pour toute autre information que vous souhaiterez avoir sur mon profil._
 - [Mon profil LinkedIn] (https://wwww.linkedin.com/in/Margot Gnango/)
 - 
-+ | TITRE         | DESCRIPTION                                                            |
-+ |                                                                                        |
-+ |---------------|------------------------------------------------------------------------|
-+ |NOM            | Béké Marie-guy                                                         |
-+ |PAYS           | Cote d'ivoire                                                          |
-+ |DIPLOME        | CEPE,BEPC,BAC,BAC+2                                                    |
-+ |COMPETENCE     | Microsoft world,microsoft excel,créativité,travail d'équipe,ponctualité|
++ +| TITRE         | DESCRIPTION                                                            |
++ +|                                                                                        |
++ +|---------------|------------------------------------------------------------------------|
++ +|NOM            | Béké Marie-guy                                                         |
++ +|PAYS           | Cote d'ivoire                                                          |
++ +|DIPLOME        | CEPE,BEPC,BAC,BAC+2                                                    |
++ +|COMPETENCE     | Microsoft world,microsoft excel,créativité,travail d'équipe,ponctualité|
 -              
 Voir mon site...
